@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "dinodedsafio:block/dino_log_hongo",
+   "y": 0
+  },
+  "facing=east": {
+   "model": "dinodedsafio:block/dino_log_hongo",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "dinodedsafio:block/dino_log_hongo",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "dinodedsafio:block/dino_log_hongo",
+   "y": 270
+  }
+ }
+}

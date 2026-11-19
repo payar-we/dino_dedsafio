@@ -1,0 +1,16 @@
+{
+ "variants": {
+  "axis=y": {
+   "model": "dinodedsafio:block/dino_log"
+  },
+  "axis=z": {
+   "model": "dinodedsafio:block/dino_log",
+   "x": 90
+  },
+  "axis=x": {
+   "model": "dinodedsafio:block/dino_log",
+   "x": 90,
+   "y": 90
+  }
+ }
+}

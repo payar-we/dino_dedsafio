@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": [
+  {
+   "item": "dinodedsafio:raw_amber"
+  },
+  {
+   "item": "dinodedsafio:amber_ore"
+  }
+ ],
+ "result": {
+  "id": "dinodedsafio:amber"
+ },
+ "experience": 0.7,
+ "cookingtime": 200
+}

@@ -1,0 +1,20 @@
+{
+ "itemGroup.dinodedsafio": "Dedsafio Dinosaurios",
+ "block.dinodedsafio.dino_log": "Tronco prehistórico",
+ "block.dinodedsafio.dino_log_hongo": "Tronco prehistórico con hongo",
+ "block.dinodedsafio.dino_leaves": "Hojas prehistóricas",
+ "block.dinodedsafio.caca": "Caca de dinosaurio",
+ "entity.dinodedsafio.dromoraptor": "Dromoraptor",
+ "entity.dinodedsafio.kragtops": "Kragtops",
+ "entity.dinodedsafio.mastodino": "Mastodino",
+ "entity.dinodedsafio.plumosaurio": "Plumosaurio",
+ "entity.dinodedsafio.subterranodon": "Subterranodon",
+ "item.dinodedsafio.dromoraptor_spawn_egg": "Huevo generador de Dromoraptor",
+ "item.dinodedsafio.kragtops_spawn_egg": "Huevo generador de Kragtops",
+ "item.dinodedsafio.mastodino_spawn_egg": "Huevo generador de Mastodino",
+ "item.dinodedsafio.plumosaurio_spawn_egg": "Huevo generador de Plumosaurio",
+ "item.dinodedsafio.subterranodon_spawn_egg": "Huevo generador de Subterranodon",
+ "block.dinodedsafio.amber_ore": "Mineral de Ámbar",
+ "item.dinodedsafio.amber": "Ámbar",
+ "item.dinodedsafio.raw_amber": "Ámbar en Bruto"
+}

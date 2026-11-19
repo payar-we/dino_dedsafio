@@ -1,0 +1,94 @@
+{
+ "has_precipitation": false,
+ "temperature": 0.8,
+ "downfall": 0.4,
+ "creature_spawn_probability": 0.35,
+ "effects": {
+  "sky_color": 2306073,
+  "fog_color": 1514790,
+  "water_color": 4087647,
+  "water_fog_color": 1651254,
+  "grass_color": 5018154,
+  "foliage_color": 3628060,
+  "mood_sound": {
+   "sound": "minecraft:ambient.cave",
+   "tick_delay": 6000,
+   "block_search_extent": 8,
+   "offset": 2.0
+  }
+ },
+ "spawners": {
+  "monster": [
+   {
+    "type": "dinodedsafio:dromoraptor",
+    "weight": 30,
+    "minCount": 2,
+    "maxCount": 4
+   },
+   {
+    "type": "dinodedsafio:mastodino",
+    "weight": 5,
+    "minCount": 1,
+    "maxCount": 1
+   },
+   {
+    "type": "dinodedsafio:subterranodon",
+    "weight": 14,
+    "minCount": 1,
+    "maxCount": 3
+   }
+  ],
+  "creature": [
+   {
+    "type": "dinodedsafio:kragtops",
+    "weight": 14,
+    "minCount": 1,
+    "maxCount": 3
+   },
+   {
+    "type": "dinodedsafio:plumosaurio",
+    "weight": 10,
+    "minCount": 1,
+    "maxCount": 2
+   }
+  ],
+  "ambient": [],
+  "axolotls": [],
+  "underground_water_creature": [],
+  "water_creature": [],
+  "water_ambient": [],
+  "misc": []
+ },
+ "spawn_costs": {},
+ "carvers": [
+  "minecraft:cave",
+  "minecraft:cave_extra_underground",
+  "minecraft:canyon"
+ ],
+ "features": [
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+   "dinodedsafio:ore_amber"
+  ],
+  [],
+  [
+   "minecraft:spring_water",
+   "minecraft:spring_lava"
+  ],
+  [
+   "dinodedsafio:dino_tree_giant",
+   "dinodedsafio:dino_tree_small",
+   "minecraft:patch_grass_forest",
+   "minecraft:patch_large_fern",
+   "minecraft:brown_mushroom_normal"
+  ],
+  [
+   "dinodedsafio:techo"
+  ]
+ ]
+}

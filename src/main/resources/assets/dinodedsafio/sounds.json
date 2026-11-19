@@ -1,0 +1,107 @@
+{
+ "dromoraptor.idle": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/dromoraptor/vallumraptor_idle_0"
+   }
+  ]
+ },
+ "dromoraptor.hurt": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/dromoraptor/vallumraptor_hurt_0"
+   }
+  ]
+ },
+ "dromoraptor.death": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/dromoraptor/vallumraptor_death_0"
+   }
+  ]
+ },
+ "kragtops.idle": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/kragtops/grottoceratops_idle_0"
+   }
+  ]
+ },
+ "kragtops.hurt": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/kragtops/grottoceratops_hurt_0"
+   }
+  ]
+ },
+ "kragtops.death": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/kragtops/grottoceratops_death_0"
+   }
+  ]
+ },
+ "mastodino.idle": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/mastodino/tremorsaurus_idle_0"
+   }
+  ]
+ },
+ "mastodino.hurt": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/mastodino/tremorsaurus_hurt_0"
+   }
+  ]
+ },
+ "mastodino.death": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/mastodino/tremorsaurus_death"
+   }
+  ]
+ },
+ "plumosaurio.idle": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/plumosaurio/relicheirus_idle_0"
+   }
+  ]
+ },
+ "plumosaurio.hurt": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/plumosaurio/relicheirus_hurt_0"
+   }
+  ]
+ },
+ "plumosaurio.death": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/plumosaurio/relicheirus_death_0"
+   }
+  ]
+ },
+ "subterranodon.idle": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/subterranodon/subterranodon_idle_0"
+   }
+  ]
+ },
+ "subterranodon.hurt": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/subterranodon/subterranodon_hurt_0"
+   }
+  ]
+ },
+ "subterranodon.death": {
+  "sounds": [
+   {
+    "name": "dinodedsafio:mob/dinos/subterranodon/subterranodon_death_0"
+   }
+  ]
+ }
+}

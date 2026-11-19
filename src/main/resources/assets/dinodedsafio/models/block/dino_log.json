@@ -1,0 +1,7 @@
+{
+ "parent": "minecraft:block/cube_column",
+ "textures": {
+  "end": "dinodedsafio:block/dino_log_top",
+  "side": "dinodedsafio:block/dino_log"
+ }
+}
